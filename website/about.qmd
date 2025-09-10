@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-About this site
+Hey this is Suryash, a current MDS student.
